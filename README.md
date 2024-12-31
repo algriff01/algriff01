@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @algriff01
 - 👀 I’m interested in learning cyber security 
-- 🌱 I’m currently learning cryptography algorithms 
+- 🌱 I’m currently studying for the compTIA security+ certification
 - 😄 Pronouns: male
 - ⚡ Fun fact: I have a green cheek conure
 
